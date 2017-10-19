@@ -1,0 +1,68 @@
+
+body {
+	background: url(space.jpg) no-repeat 100% 100% fixed;
+}
+
+
+div.color-blue{
+	color:blue;
+}
+
+div.image-cont{
+	padding:20px 40px 100px 40px;
+	background: url(summoners.jpg) no-repeat center center; 
+	background-width:300px;
+	background-height:500px;
+	width:100px;
+	height:100px;
+	position:relative;
+	left:100px;
+	text-align:center;
+
+}
+
+h3.inner-text{
+	color:yellow;
+	font-size:30px;
+	position:relative;
+	right:10px;
+	top:10px;
+}
+
+div.wrapper{
+	width:250px;
+	height:300px;
+}
+
+div.wrapper img{
+	width:100%;
+	height:100%;
+}
+
+div.text-wrapper{
+	width:100%;
+	position:relative;
+	margin-top:-250px;
+	margin-left:5px;
+}
+
+h3.summons-text{
+	color:red;
+	font-size:40px;
+	text-align:center;
+}
+
+a:link{
+	color:yellow;
+	text-decoration:none;
+}
+
+a:visited{
+	color:yellow;
+	text-decoration: none;
+}
+
+a:hover{
+	color:black;
+	text-decoration:underline;
+}

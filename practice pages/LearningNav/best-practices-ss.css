@@ -1,0 +1,31 @@
+.heading-wrapper{
+	color:#f99;
+	text-align:center;
+	font-size:20px;
+	padding:20px;
+	border-style:double;
+	border-width:10px;
+	border-color:#f00;
+	background-image:url("http://img14.deviantart.net/d9f8/i/2010/284/d/e/phoenix_background_by_symbiot2006-d30ixzq.jpg")
+}	
+
+body{
+	font-family:sans-serif, verdana;
+	background-image:url("images../embers.jpg")
+
+}
+
+#container{
+	color:orange;
+}
+
+.best-practice-list{
+	font-size:20px;
+}
+
+.best-practices{
+	margin-left:0px;
+	margin-right:0px;
+	padding-left:0px;
+	padding-right:0px;
+}

@@ -1,0 +1,21 @@
+*{
+	margin:none;
+	padding:none;
+	font-family:georgia, monospace;
+	
+}
+
+
+
+header{
+	color:#ffbe45;
+	text-align:center;
+	padding:20px;
+	margin-bottom:20px;
+	background:url(https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAsSAAAAJGNhNTlhMTM5LTkyMjUtNDE5Mi1iMWJjLTBhZDNmYjRlMzcyNQ.jpg); background-repeat:no-repeat; background-size:100% 100%; 
+	border-width:10px;
+		border-style:double;
+		border-color:#ffbe45;
+		
+}
+

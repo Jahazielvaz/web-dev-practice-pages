@@ -1,0 +1,66 @@
+
+
+#container {
+	font-family: impact, verdana
+}
+
+
+.places-to-visit {
+	padding: 15px 30% 15px 30%;
+	background: #2e2e2e;
+	color: #d30000;
+	margin: 10px;
+	border-style: solid;
+	border-color: #ff2100;
+}
+
+.plitvice-lakes{
+	position:relative;
+	top: 10px;
+	left: 6px;
+	border-style: double;
+	border-color: #d30000;
+	border-width: 5px;
+	margin: 5px;
+
+}
+.ice-caves {
+	position:relative;
+	top: 10px;
+	left: 6px;
+	border-style: double;
+	border-color: #d30000;
+	border-width: 5px;
+	margin: 5px;
+
+}
+
+.under-water-hotel {
+	position:relative;
+	top: 10px;
+	left: 6px;
+	border-style: double;
+	border-color: #d30000;
+	border-width: 5px;
+	margin: 5px;
+}
+
+.pink-forest{
+	position:relative;
+	top: 10px;
+	left: 6px;
+	border-style: double;
+	border-color: #d30000;
+	border-width: 5px;
+	margin: 5px;
+}
+
+.atlantis-bahamas {
+	position:relative;
+	top: 10px;
+	left: 6px;
+	border-style: double;
+	border-color: #d30000;
+	border-width: 5px;
+	margin: 5px;
+}

@@ -1,0 +1,89 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family:verdana, sans-serif;
+}
+
+body{
+	color:pink;
+	background:url("images/office.jpg")
+}
+
+header{
+	padding:20px;
+	margin:0px;
+	border-width:10px;
+	border-style:double;
+	border-color: #7caebd;
+	color:#7caebd;
+	background-color:#695147;
+	text-align:center;
+}
+
+nav{
+	width:1200px;
+	height:40px;
+	background-color:black;
+	margin:30px auto;
+
+
+}
+
+
+ul{
+	list-style:none;
+	width:1200px;
+	height:40px;
+	}
+
+
+li{
+	list-style:none;
+	overflow:hidden;
+	float:left;
+	width:200px;
+	height:40px;
+	margin-top:0px;
+}
+
+div.container_general{
+	width:200px;
+	height:50px;
+	background-color:grey;
+	-webkit-transition:margin-top .3s;
+}
+
+div.container_general:hover{
+	margin-top:-40px;
+}
+
+div.container_one{
+	width:200px;
+	height:35px;
+	background-color:#B92D6E;
+	overflow:hidden;
+	border-bottom:solid 5px #000;
+}
+
+div.container_two{
+	width:200px;
+	height:35px;
+	background-color:black;
+	overflow:hidden;
+	border-bottom: 5px solid #B92D6E;
+}
+
+p.text_one, p.text_two {
+	color:white;
+	text-align:center;
+	margin-top:7px;
+}
+
+
+
+
+
+
+
+
+

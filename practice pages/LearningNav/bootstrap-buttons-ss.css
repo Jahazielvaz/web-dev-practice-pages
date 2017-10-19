@@ -1,0 +1,30 @@
+*{
+	font-family: digital tech, halo;
+	padding:0px;
+	margin:0px;
+	color:#8BDE2E;
+}
+
+
+body{
+	background: url(../images/ai.jpg) fixed no-repeat center center;
+	background-size:100% 100%;
+	
+}
+
+
+div.header-section{
+	color:#F2269B;
+	text-align:center;
+	padding:20px 100px 20px 100px;
+	margin-top:0px;
+	margin-right:100px;
+	margin-left:100px;
+	margin-bottom:20px;
+	background-color:#333
+	filter:alpha(opacity=20);
+	opacity:.20;
+	-moz-opacity:.20;
+
+}
+

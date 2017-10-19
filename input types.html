@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Input Types</title>
+	<link rel="stylesheet" type="text/css" href="input-types-ss.css">
+</head>
+
+<body>
+	<div id="container">
+
+	<header class="headings">
+		<h1><b>Input Types</b></h1>
+		<h2>Here, we'll go over all the input types there are, and we're going to practice over and over, until we get them.</h2>
+	</header>
+
+	<form class="wrapper">
+		Username: 
+		<br>
+		<input type="text" placeholder="ex- john.charles@gmail.com">
+		<br>
+	
+		Password:
+		<br>
+		<input type="password" placeholder="ex- P5kd10#">
+		<br>
+		<br>
+		<input type="submit" value="Submit">
+		<input type="reset" value="Reset">
+	</form>
+	
+<div class="wrapper">
+	<form>
+		Gender:
+		<br>
+		<input type="radio" name="gender" value="male">
+		Male
+		<br>
+		<input type="radio" name="gender" value="female">
+		Female
+		<br>
+		<hr>
+		
+		<br>
+		Favorite Auto Make:
+		<br>
+		<input type="checkbox" value="Honda">
+		Honda<br>
+		<input type="checkbox" value="Toyota">
+		Toyota<br>
+		<input type="checkbox" value="Mazda">
+		Mazda<br>
+		<input type="checkbox" value="Ford">
+		Ford
+		<br>
+		<input type="submit" value="Submit">
+		<br>
+		<hr>
+		</form>
+		
+		<form>
+			<br>
+			Top 5 Colors:
+			<br>
+			<input type="color" id="send" oninput="result.value = send.value">
+			<input type="text" id="result" class="col">
+		</form>
+		
+		<form>
+			<br>
+			<input type="color">
+			<input type="button" value="select">
+			<br>
+		</form>
+
+		<form>
+			<input type="color">
+			<input type="button" value="select" onclick="alert ('Great Color Choice')">
+			<br>
+			<input type="submit" value="Submit">
+			<hr>
+		</form>
+
+		<form>
+			<br>
+			Date of Birth:
+			<input type="date">
+			<input type="submit" value="Submit">
+			<br>
+		</form>
+
+		<form>
+			<br>
+			<input type="datetime-local" id="send" oninput="result.value = send.value" class="col2">
+			<input type="text" id="result" class="col2">
+			<hr>
+		</form>
+
+		<form>
+			<br>
+			E-MAIL ADDRESS
+			<input type="email" id="send" oninput="result.value=send.value" placeholder="ex- john2charles@gmail.com">
+			<input type="text" id="result">
+			<input type="submit">	
+		</form>
+</div>
+
+
+
+	</div>
+</body>
+</html>
